@@ -1,0 +1,4 @@
+/.cache
+/.env.development
+/.eslintrc.js
+/node_modules
